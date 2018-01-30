@@ -1,0 +1,1 @@
+Performing grid search on LR...('pipelineLR:', ['vect', 'lr'])parametersLR:{'vect__max_df': [0.5, 1], 'vect__max_features': [5000, 10000], 'vect__ngram_range': [(1, 1), (1, 2)], 'lr__penalty': ['l1', 'l2']}done in 29706.604sBest score: 0.632Best parametersLR set:	lr__penalty: 'l1'	vect__max_df: 0.5	vect__max_features: 10000	vect__ngram_range: (1, 2)
